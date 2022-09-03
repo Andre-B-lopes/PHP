@@ -1,0 +1,51 @@
+[09-May-2018 16:41:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 16
+[09-May-2018 16:42:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 16
+[11-May-2018 10:14:31 America/Sao_Paulo] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`host6.hospedameusite.com.br' did not match expected CN=`localhost' in /home/tifixcom/public_html/guardiao/PHPMailer/class.smtp.php on line 200
+[11-May-2018 10:16:45 America/Sao_Paulo] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`host6.hospedameusite.com.br' did not match expected CN=`localhost' in /home/tifixcom/public_html/guardiao/PHPMailer/class.smtp.php on line 200
+[11-May-2018 10:16:48 America/Sao_Paulo] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`host6.hospedameusite.com.br' did not match expected CN=`localhost' in /home/tifixcom/public_html/guardiao/PHPMailer/class.smtp.php on line 200
+[11-May-2018 10:18:16 America/Sao_Paulo] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`host6.hospedameusite.com.br' did not match expected CN=`localhost' in /home/tifixcom/public_html/guardiao/PHPMailer/class.smtp.php on line 200
+[11-May-2018 10:42:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 8
+[11-May-2018 10:45:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 8
+[11-May-2018 12:02:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'font' (T_STRING) in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 29
+[13-Jun-2018 10:03:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 52
+[13-Jun-2018 10:23:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 52
+[13-Jun-2018 10:36:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 52
+[28-Jun-2018 13:19:36 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 08:00:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 08:01:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 08:05:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 09:18:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 09:19:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 09:21:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[29-Jun-2018 09:37:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/tifixcom/public_html/guardiao/index-aberto.php on line 556
+[13-Aug-2018 19:41:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:41:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:04 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:42:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:43:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:44:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:47:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[13-Aug-2018 19:47:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$foto' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/index-aberto.php on line 102
+[16-Aug-2018 21:25:33 America/Sao_Paulo] PHP Warning:  fopen(1534465533.jpg): failed to open stream: No such file or directory in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 26
+[16-Aug-2018 21:25:33 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for 1534465533.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:25:33 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:25:33 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 29
+[16-Aug-2018 21:29:34 America/Sao_Paulo] PHP Warning:  fopen(1534465774.jpg): failed to open stream: No such file or directory in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 26
+[16-Aug-2018 21:29:34 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for 1534465774.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:29:34 America/Sao_Paulo] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:29:34 America/Sao_Paulo] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 29
+[16-Aug-2018 21:50:35 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for https://tifix.com.br/guardiao/foto/1534465774.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:50:35 America/Sao_Paulo] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:54:20 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for https://tifix.com.br/guardiao/foto/1534465774.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:54:20 America/Sao_Paulo] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:59:55 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for https://tifix.com.br/guardiao/foto/1534465774.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 21:59:55 America/Sao_Paulo] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 22:02:10 America/Sao_Paulo] PHP Warning:  filesize(): stat failed for https://tifix.com.br/guardiao/foto/1534465774.jpg in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[16-Aug-2018 22:02:10 America/Sao_Paulo] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/tifixcom/public_html/guardiao/enviaEmail.php on line 27
+[19-Sep-2018 11:10:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$condominio' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/enviaEmail3.php on line 12
+[19-Sep-2018 11:14:25 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$condominio' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/enviaEmail3.php on line 12
+[19-Sep-2018 11:15:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$condominio' (T_VARIABLE) in /home/tifixcom/public_html/guardiao/enviaEmail3.php on line 12
